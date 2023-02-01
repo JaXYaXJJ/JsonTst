@@ -1,0 +1,28 @@
+{
+    "cards": {
+        "countries": [
+            {
+                "image": "https://www.worldometers.info/img/flags/ic-flag.gif",
+                "name": "Iceland"
+            },
+            {
+                "image": "https://www.worldometers.info/img/flags/no-flag.gif",
+                "name": "Norway"
+            },
+            {
+                "image": "https://www.worldometers.info/img/flags/ks-flag.gif",
+                "name": "South Korea"
+            },
+            {
+                "image": "https://www.worldometers.info/img/flags/is-flag.gif",
+                "name": "Israel"
+            },
+            {
+                "image": "https://www.worldometers.info/img/flags/da-flag.gif",
+                "name": "Denmark"
+            }
+        ],
+        "cities": [],
+        "teams": []
+    }
+}
